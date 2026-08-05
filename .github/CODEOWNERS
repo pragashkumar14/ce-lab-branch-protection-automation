@@ -1,0 +1,12 @@
+# Default owners for everything
+*               @pragashkumar14
+
+# Terraform files require platform team review
+*.tf            @f-karamizadeh
+*.tfvars        @f-karamizadeh
+
+# Workflow files require DevOps lead review
+.github/workflows/  @pragashkumar14
+
+# Documentation can be reviewed by anyone on the team
+*.md            @pragashkumar14
